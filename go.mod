@@ -1,3 +1,3 @@
-module github.com/taenykim/go-go
+module github.com/taenykim
 
 go 1.18
